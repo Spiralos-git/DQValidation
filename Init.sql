@@ -1,6 +1,3 @@
-USE [dev]
-GO
-/****** Object:  StoredProcedure [DQ].[Run]    Script Date: 25/12/2025 4:54:10 PM ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -636,4 +633,5 @@ begin
 end
 
 go
+
 
