@@ -1,3 +1,5 @@
+-- Copyright (c) 2025 by Dominique Beneteau (dombeneteau@yahoo.com)
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
